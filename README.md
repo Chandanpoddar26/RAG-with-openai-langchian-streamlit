@@ -3,4 +3,4 @@
 pip install -r requirements.txt
 
 ** Secondly create or paste your OPEN API KEY in the code 
-and use it
+and use it.
